@@ -1,0 +1,17 @@
+{
+  "name": "postcss-delete-text-decoration-skip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.1",
+    "gulp-postcss": "^8.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
